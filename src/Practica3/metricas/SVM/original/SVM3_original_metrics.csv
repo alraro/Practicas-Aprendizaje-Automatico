@@ -1,2 +1,2 @@
 Dataset,Fold,Method,Exactitud,F1,Sensibilidad,Recall,Precision,Especificidad,FNR,FPR,AUC
-original,3,SVM,1.0,1.0,1.0,1.0,1.0,0.9999999949999999,0.0,0.0,0
+original,3,SVM,1.0,1.0,1.0,1.0,1.0,0.9999999949999999,0.0,0.0,1.0
