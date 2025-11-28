@@ -9,14 +9,14 @@ setosa,setosa,1.0,0.0,0.0
 setosa,setosa,1.0,0.0,0.0
 setosa,setosa,1.0,0.0,0.0
 setosa,setosa,1.0,0.0,0.0
-versicolor,versicolor,0.0,0.9502562741640763,0.04547130405142045
+versicolor,versicolor,0.0,0.9524011581099585,0.04330228542592313
 versicolor,versicolor,0.0,1.0,0.0
 versicolor,versicolor,0.0,0.96,0.04
 versicolor,versicolor,0.0,0.995,0.005
 versicolor,versicolor,0.0,1.0,0.0
 versicolor,versicolor,0.0,1.0,0.0
 versicolor,versicolor,0.0,0.99,0.01
-versicolor,versicolor,0.0,0.9454611921844948,0.05024900679558164
+versicolor,versicolor,0.0,0.9477917799092994,0.04787543215540255
 versicolor,versicolor,0.0,1.0,0.0
 versicolor,versicolor,0.0,1.0,0.0
 virginica,virginica,0.0,0.0,1.0
@@ -28,4 +28,4 @@ virginica,virginica,0.0,0.0,1.0
 virginica,virginica,0.0,0.03,0.97
 virginica,virginica,0.0,0.01,0.99
 virginica,virginica,0.0,0.0,1.0
-virginica,virginica,0.0,0.013285812465571157,0.9810235734216217
+virginica,virginica,0.0,0.013897824294236276,0.9805473759309354
