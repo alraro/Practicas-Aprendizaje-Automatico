@@ -1,0 +1,4 @@
+Modelo,Top-1 Accuracy,Top-5 Accuracy,Ruta Pesos
+yolov8m-cls,0.7,1.0,runs/classify\train_yolov8m-cls\weights\best.pt
+yolov8n-cls,0.6625,0.9625,runs/classify\train_yolov8n-cls\weights\best.pt
+yolov8s-cls,0.725,0.9625,runs/classify\train_yolov8s-cls\weights\best.pt
