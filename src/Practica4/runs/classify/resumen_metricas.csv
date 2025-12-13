@@ -1,4 +1,0 @@
-Modelo,Train Loss,Val Loss,Top-1 Acc,Top-5 Acc
-yolov8n-cls,0.8191,1.0452,0.6375,0.9625
-yolov8s-cls,0.5137,1.152,0.65,0.9625
-yolov8m-cls,0.3193,1.0287,0.675,0.9875
