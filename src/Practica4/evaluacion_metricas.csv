@@ -1,4 +1,4 @@
-Modelo,Top-1 Accuracy,Top-5 Accuracy,Ruta Pesos
-yolov8m-cls,0.7,1.0,runs/classify\train_yolov8m-cls\weights\best.pt
-yolov8n-cls,0.6625,0.9625,runs/classify\train_yolov8n-cls\weights\best.pt
-yolov8s-cls,0.725,0.9625,runs/classify\train_yolov8s-cls\weights\best.pt
+Modelo,Accuracy,Precision,Recall (Sensibilidad),F1-Score,Especificidad,FNR,FPR,AUC,Ruta Pesos
+yolov8m-cls,0.7,0.7331,0.7,0.702,0.9571,0.3,0.0429,0.9291,runs/classify\train_yolov8m-cls\weights\best.pt
+yolov8n-cls,0.6625,0.6716,0.6625,0.6592,0.9518,0.3375,0.0482,0.918,runs/classify\train_yolov8n-cls\weights\best.pt
+yolov8s-cls,0.725,0.7284,0.725,0.7211,0.9607,0.275,0.0393,0.9245,runs/classify\train_yolov8s-cls\weights\best.pt
