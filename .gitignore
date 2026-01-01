@@ -208,3 +208,6 @@ __marimo__/
 
 # Large dataset
 lichess_games.csv
+
+# ExtraLarge YOLO model weights
+yolov8x.pt
